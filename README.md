@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CySecZH
+- 👀 I’m interested in gathering and learning about new cyber security FOSS applications to use in a future project
+- 💞️ I’m looking to collaborate on anything you can convince me to ;) 
+- 📫 How to reach me through mxarecord@proton.me
